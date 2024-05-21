@@ -2,7 +2,8 @@
 www.dio.me
 
 #### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Gleyson Sampaio](https://github.com/glysns) (Professor)
+- [Alef Vinicius] (Aluno)
 
 ## Sintaxe - Desafio
 
