@@ -3,7 +3,7 @@ www.dio.me
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns) (Professor)
-- [Alef Vinicius] (Aluno)
+- Alef Vinicius (Aluno)
 
 ## Sintaxe - Desafio
 
